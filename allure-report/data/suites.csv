@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","955","GET request to get info of the user by username","chromium","Mon Feb 03 07:57:57 EET 2025","passed","Mon Feb 03 07:57:58 EET 2025","","Q-Pros-API.spec.ts","",""
+"","980","DELETE request to remove user by username","chromium","Mon Feb 03 07:58:00 EET 2025","failed","Mon Feb 03 07:58:01 EET 2025","","Q-Pros-API.spec.ts","",""
+"","14910","Ui Test@Ui","chromium","Mon Feb 03 07:47:15 EET 2025","passed","Mon Feb 03 07:47:30 EET 2025","","Q-Pros-UI.spec.ts","",""
+"","248","PUT request to update user by username and userinfo","chromium","Mon Feb 03 07:57:58 EET 2025","failed","Mon Feb 03 07:57:59 EET 2025","","Q-Pros-API.spec.ts","",""
+"","1129","POST request to create a user","chromium","Mon Feb 03 07:57:55 EET 2025","failed","Mon Feb 03 07:57:56 EET 2025","","Q-Pros-API.spec.ts","",""
